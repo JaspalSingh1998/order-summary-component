@@ -50,6 +50,7 @@ img {
   margin: 1rem 0;
   color: var(--darkBlue);
   font-weight: 900;
+  font-size: 2rem;
 }
 .card__desc {
   font-size: 14px;
@@ -68,7 +69,7 @@ img {
   height: 3rem;
   width: 3rem;
 }
-.card__body--middle h5 {
+.card__body--middle h2 {
   font-size: 14px;
   color: var(--darkBlue);
 }
