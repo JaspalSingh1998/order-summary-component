@@ -25,7 +25,7 @@ body {
   place-items: center;
   padding: 0 2rem;
   background-color: var(--paleBlue);
-  background-image: url("images/pattern-background-mobile.svg");
+  background-image: url("./images/pattern-background-mobile.svg");
   background-repeat: no-repeat;
 }
 img {
@@ -100,7 +100,7 @@ img {
 @media (min-width: 400px) {
   body {
     background-color: var(--paleBlue);
-    background-image: url("images/pattern-background-desktop.svg");
+    background-image: url("./images/pattern-background-desktop.svg");
     background-size: 110%;
   }
   .card {
